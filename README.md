@@ -1,6 +1,5 @@
 # INSY 8311 - Final Project
 **Student:** Nkurunziza Aimable
-**Student ID:**29692
 **Project Topic:** Kwizera Decor Furniture Workshop Management System (FWMS)
 
 ## Phase I – Business Process Modeling
